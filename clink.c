@@ -13,20 +13,7 @@ typedef struct list
 
 node *first=NULL,*last=NULL;
 
-display()
-{
-	node *temp=first;
-	if(temp==NULL)
-	printf("\nNo data");
-	else
-	{
-		do
-		{
-			printf("%d\t",temp->data);
-			temp=temp->link;
-		}while(temp!=first);
-	}
-}
+
 
 main()
 {
