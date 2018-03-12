@@ -1,4 +1,6 @@
-Here you find  C programs of data structure in simplest form  of
+# Data Structure (In C)
+
+Here you find C programs of the following :-
 
 Stack;
 
